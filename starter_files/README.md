@@ -13,7 +13,7 @@ This covers some of the general aspects of a secure state of the art deployment 
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+link to a screen recording of the project in action:https://youtu.be/m8A1JtrmEe8
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
