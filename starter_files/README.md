@@ -51,4 +51,4 @@ Now we look into creating a pipeline all the way till its consumption.
 ![](forpub/schdlrun.png)
 
 ## Screen Recording
-link to a screen recording of the project in action: https://youtu.be/m8A1JtrmEe8
+link to a screen recording of the project in action: https://youtu.be/_dg74GBgBhQ
